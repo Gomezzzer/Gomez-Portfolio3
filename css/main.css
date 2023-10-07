@@ -2010,6 +2010,9 @@ header .logo a {
 		width: auto;
 		margin: 0 20px;
 	}
+	.popup-modal-dismiss {
+		margin-left: 8.5rem;
+	}
 }
 
 /**
