@@ -644,7 +644,7 @@ input[type="button"] {
 	-webkit-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
-	border-radius: 25%;
+	border-radius: 3%;
 }
 .button:hover,
 a.button:hover,
@@ -1316,7 +1316,7 @@ header .logo a {
 	font-size: 1.3rem;
 	text-transform: uppercase;
 	letter-spacing: .25rem;
-	border-radius: 25%;
+	border-radius: 3%;
 }
 .intro-content .button:hover, .intro-content .button:focus {
 	border-color: #d0f0c0;
